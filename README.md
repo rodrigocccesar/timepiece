@@ -5,7 +5,7 @@ Technologies used:
 HTML / CSS / JavaScript
 
 Visit the project:
-http://rodjnnc.github.io/timepiece
+https://rodjnnc.github.io/Timepiece/
 
 #Author:
 Rodrigo C. C. César
