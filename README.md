@@ -1,13 +1,26 @@
-# Timepiece
-Simple cronometer 
+<h1 align="center"> Timepiece </h1>
 
-Technologies used:
-HTML / CSS / JavaScript
+<br>
 
-Visit the project:
-https://rodjnnc.github.io/Timepiece/
 
-#Author:
-Rodrigo C. C. César
+<p align="center">
+  <img alt="Preview App" src="timepiece.png" width="100%">
+</p>
 
-https://www.linkedin.com/in/rodrigocccesar
+## 🚀 Technologies
+
+This project was developed with:
+
+- HTML
+- CSS 
+
+## 💻 Project
+
+Simple cronometer
+
+---
+
+No Copyright :wave: by https://www.freecodecamp.org
+
+- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/timepiece)
+
