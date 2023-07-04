@@ -11,8 +11,7 @@
 
 This project was developed with:
 
-- HTML
-- CSS 
+- JavaScript 
 
 ## 💻 Project
 
@@ -22,5 +21,5 @@ Simple cronometer
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/timepiece)
+- [access the finished project, online](https://rodrigocccesar.github.io/timepiece)
 
