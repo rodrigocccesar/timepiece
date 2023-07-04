@@ -21,5 +21,5 @@ Simple cronometer
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [access the finished project, online](https://rodrigocccesar.github.io/timepiece)
+- [Access the finished project, online](https://rodrigocccesar.github.io/timepiece)
 
